@@ -26,7 +26,7 @@ The purpose of this analysis is to look into amazon reviews to determine if ther
  ![total_paid](https://github.com/JTGonzaga/Amazon_Vine_Analysis/blob/main/Analysis/total_vine.png)
  ![total_unpaid](https://github.com/JTGonzaga/Amazon_Vine_Analysis/blob/main/Analysis/total_unpaid.png)
  
- - We can see that the majority of reviews are not associated with the Amazon Vine Program
+ - We can see that the majority of reviews are not associated with the Amazon Vine Program. 1763580 for unpaid versus 3814 for paid reviews.
  
  Total 5-star reviews for vine and non-vine reviews:
  
